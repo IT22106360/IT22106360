@@ -5,8 +5,8 @@
 
 ---
 
-- 🔭 I’m currently working on **WaveSync**
-- 🌱 I’m currently learning **Kotlin**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🌱 I’m currently learning **Kotlin** & **MERN**
 - 📫 How to reach me **it22106360@my.sliit.lk**
 
 <h3 align="left">Connect with me:</h3>
