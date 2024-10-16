@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **AI/ML** & **Cloud Computing**
 - 📫 How to reach me **info.wark.rupasinghe.work@gmail.com**
 
-### Connect with me
-
+### Connect with me 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/)
 
 
