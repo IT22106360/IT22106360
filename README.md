@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupasinghe W A R K</h1>
+<h1 align="center">Hi 👋, I'm Rashmika Rupasinghe</h1>
 <h3 align="center">Data Wonders from Sri Lanka: Data Science & Tech Enthusiast 💻✨</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22106360&label=Profile%20views&color=0e75b6&style=flat" alt="it22106360" /> </p>
