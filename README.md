@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupasinghe W A R K</h1>
-<h3 align="center">Coding Wonders from Sri Lanka: Full Stack Enthusiast 💻✨</h3>
+<h3 align="center">Data Wonders from Sri Lanka: Data Science & Tech Enthusiast 💻✨</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22106360&label=Profile%20views&color=0e75b6&style=flat" alt="it22106360" /> </p>
 
@@ -8,8 +8,8 @@
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 🌱 I’m currently learning **Kotlin** & **MERN**
-- 📫 How to reach me **it22106360@my.sliit.lk**
+- 🌱 I’m currently learning **AI/ML** & **Cloud Computing**
+- 📫 How to reach me **info.wark.rupasinghe.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
