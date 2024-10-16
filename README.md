@@ -12,7 +12,8 @@
 - 📫 How to reach me **info.wark.rupasinghe.work@gmail.com**
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/)
+
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/)
 
 
 <h3 align="left">Languages and Tools:</h3>
