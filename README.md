@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 - 🌱 I’m currently learning **AI/ML** & **Analytics**
-- 📫 How to reach me **info.wark.rupasinghe.work@gmail.com**
+- 📫 How to reach me **wark.rupasinghe.work@gmail.com**
 
 ### Connect with me 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/)
