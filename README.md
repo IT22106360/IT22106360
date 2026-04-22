@@ -8,7 +8,7 @@
 <img align="right" top="500" height="150" width="250" alt="GIF" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 🌱 I’m currently learning **AI/ML**,**Cloud Computing** and **Analytics**
+- 🌱 I’m currently learning **AI/ML**,and **Analytics**
 - 📫 How to reach me **wark.rupasinghe.work@gmail.com**
 
 ### Connect with me 
